@@ -44,7 +44,7 @@
   "dependencies": {
     "@fontsource/roboto": "^5.0.3",
     "buffer": "^6.0.3",
-    "core-js": "^3.31.0",
+    "core-js": "^3.33.2",
     "idb-keyval": "^6.2.1",
     "lodash-es": "^4.17.21",
     "p-queue": "^7.3.4",
